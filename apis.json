@@ -1,0 +1,68 @@
+{
+    "name": "ClicData",
+    "description": "All in one cloud platform including a Business dashboards creator, extensive data manipulation tools & automatic data refresh & publication.Try it for free!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28722-www-clicdata-com.jpg",
+    "tags": [
+        "data",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/clicdata\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ClicData",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28722-www-clicdata-com.jpg",
+            "humanURL": "https:\/\/www.clicdata.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/clicdata-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/clicdata"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/app.clicdata.com\/help\/apidocumentation\/api-getting-started"
+        },
+        {
+            "type": "Email",
+            "url": "sales@clicdata.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@clicdata.com"
+        },
+        {
+            "type": "Email",
+            "url": "contact@clicdata.com"
+        },
+        {
+            "type": "FAQ",
+            "url": "https:\/\/app.clicdata.com\/help\/faq"
+        },
+        {
+            "type": "Getting Started",
+            "url": "https:\/\/app.clicdata.com\/help"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ClicData"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.clicdata.com"
+        }
+    ]
+}
